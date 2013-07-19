@@ -1,0 +1,5 @@
+simple history.
+get mygitnotes project clone
+git clone https://github.com/pddd/mygitnotes.git
+
+
