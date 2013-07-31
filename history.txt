@@ -7,3 +7,5 @@ some changes while anoher user modiefies master
 another change by user2 on b1
 
 change by user1 on f1
+
+2. change by user1 on f1 on history
